@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Julian!
+- 👀 I’m interested in Data Analytics / Science / Engineering
+- 🌱 I’m currently learning a lot
+- 💞️ I’m looking to collaborate on interesting projects
