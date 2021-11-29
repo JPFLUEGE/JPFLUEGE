@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Julian!
-- 👀 I’m interested in Data Analytics & Science and Front-end development
+- 👀 I’m interested in Data Analytics & Science, Front-end development and Software development :)
 - 🌱 I’m currently learning a lot of new stuff
-- 💞️ I’m looking to collaborate on interesting projects
+- 💞️ I’m looking forward to collaborate on interesting projects!
