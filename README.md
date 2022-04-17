@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Julian! :)
-- 👀 I’m interested in Data Analytics & Science (Python), Front-end development (HTML, CSS, JS) and Software development (Python) 
-- 🌱 I’m currently learning a lot of new stuff
+- 👋 Hi, I’m Julian!
+- 👀 I’m interested in (Front-end) web development (HTML, CSS, JS, React, Express) and Data Analytics & Science (Python)
+- 🌱 I’m currently learning a lot of new stuff and also working as a Business Data Analyst in a Regional Head Office (Europe)
 - 💞️ I’m looking forward to collaborate on interesting projects!
 
-- https://julian-pflueger.com/ & https://jpfluege.github.io/
+Portfolio sites are under construction:
+https://julian-pflueger.com/ & https://jpfluege.github.io/
