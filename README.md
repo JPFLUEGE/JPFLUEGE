@@ -4,3 +4,4 @@
 - 💞️ I’m looking forward to collaborate on interesting projects!
 
 Portfolio site: https://julian-pflueger.com/ 
+LinkedIn: https://www.linkedin.com/in/julian-m-pflueger/
